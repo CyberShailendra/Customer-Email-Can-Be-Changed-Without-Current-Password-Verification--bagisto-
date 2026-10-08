@@ -13,7 +13,7 @@ This repository contains a detailed security vulnerability report regarding an *
 ## Proof of Concept (PoC) Video
 You can find the demonstration video for this vulnerability below:
 
-🎥 **PoC Video:** `poc.mp4`
+🎥 **[Watch / Download PoC Video (poc.mp4)](https://github.com/user-attachments/assets/00a10e63-d3c1-470e-a264-bead51aed4a2)**
 
 *(Place your recorded video file named `poc.mp4` in the root of this folder or embed it using the link above.)*
 
