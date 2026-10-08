@@ -1,0 +1,1 @@
+# Customer-Email-Can-Be-Changed-Without-Current-Password-Verification--bagisto-
